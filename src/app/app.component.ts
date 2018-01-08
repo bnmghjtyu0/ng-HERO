@@ -26,8 +26,3 @@ export class AppComponent {
     this.selectedHero = hero;
   }
 }
-
-interface Hero {
-  id: number;
-  name: string;
-}
